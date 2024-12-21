@@ -24,6 +24,8 @@
    - Automatically determine whether the task is **Classification** or **Regression**.
    - Train and compare models using **PyCaret**.
    - Recommend the best-performing model for the dataset.
-     --
+
+
+
 https://github.com/user-attachments/assets/93cf5d2a-e390-4707-a7d3-33da87baee99
 
