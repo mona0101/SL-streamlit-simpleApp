@@ -27,3 +27,7 @@
    - **Automatic Model Selection**: Using **PyCaret**, the app automatically analyzes the dataset and determines the appropriate machine learning model type (Classification or Regression) based on the target column's data type.
    - **Model Training**: PyCaret compares various models and selects the best-performing one for the dataset, streamlining the process of finding the most effective model.
   
+
+
+https://github.com/user-attachments/assets/93cf5d2a-e390-4707-a7d3-33da87baee99
+
