@@ -6,7 +6,7 @@
 
 ### 1. **Upload Data** 📂
    - Users can upload datasets in `CSV`, `Excel`, or `JSON` formats.
-   - The app automatically reads the uploaded file and loads it into the session for further processing.
+   - The app automatically reads the uploaded file and loads it for further processing.
 
 ### 2. **Exploratory Data Analysis (EDA)** 🔍
    - **Basic Stats**: View the dataset's shape (rows and columns) and column data types.
@@ -26,4 +26,4 @@
 ### 5. **Machine Learning Model Training with PyCaret** 🤖
    - **Automatic Model Selection**: Using **PyCaret**, the app automatically analyzes the dataset and determines the appropriate machine learning model type (Classification or Regression) based on the target column's data type.
    - **Model Training**: PyCaret compares various models and selects the best-performing one for the dataset, streamlining the process of finding the most effective model.
-   - **Model Prediction**: Once the best model is selected, users can make predictions and view the results instantly.
+  
